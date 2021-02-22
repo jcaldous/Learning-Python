@@ -2,7 +2,7 @@
 
 ## Table of contents
 __________________
-  A. Comp 116
+  A. [Comp 116](https://wwwx.cs.unc.edu/Courses/comp116-s16/)
    
     1. A1: Assignment 1 
     2. A2: Assignment 2
@@ -11,7 +11,7 @@ __________________
     5. A5: Assignment 5
     6. inclass
     7. worksheet
-  B. Linkedin learning
+  B. [Linkedin learning](https://www.linkedin.com/learning/learning-python/python-functions?u=42563596)
     
     1. Chapter 1: Getting Started
     2. Chapter 2: Python Basics
@@ -22,4 +22,4 @@ __________________
     7. Exercise Files: Files downloaded from course
   _________________________________________
   
-  Link to binder: 
+
