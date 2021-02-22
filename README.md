@@ -19,6 +19,7 @@ __________________
     4. Chapter 4: Working with Files
     5. Chapter 5: Working with Web Data
     6. Certificate
+    7. Exercise Files: Files downloaded from course
   _________________________________________
   
   Link to binder: 
